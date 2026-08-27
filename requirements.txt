@@ -1,0 +1,10 @@
+# Use a supported 64-bit Python 3.x release on Windows 10/11.
+# Google Chrome and an internet connection are required.
+# PrivateCircle Company Master access is required only for debt_enricher.py.
+# Install with: python -m pip install -r requirements.txt
+
+pandas
+openpyxl
+pdfplumber
+selenium
+webdriver-manager

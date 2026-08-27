@@ -1,0 +1,25 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated run data
+downloads/
+outputs/
+privatecircle_debug/
+*.log
+
+# Local credentials and environment files
+PrivateCircle_login.txt
+.env
+.env.*
+!.env.example
+
+# Local tooling metadata
+.agents/
+agents(info).md
+
+# Temporary browser and Office files
+.chrome_profile_*/
+~$*
